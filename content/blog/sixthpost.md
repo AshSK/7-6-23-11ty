@@ -1,5 +1,5 @@
 ---
-title: This is my sixth post with a much longer title.
+title: This is my sixth post for TCG task. More difficult than anticipated today!
 description: This is the Sixth Post on the site, for TCG task.
 date: 2023-07-06
 tags:
