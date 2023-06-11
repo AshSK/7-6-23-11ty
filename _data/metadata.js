@@ -1,5 +1,5 @@
 module.exports = {
-	title: "Eleventy Base Blog v8",
+	title: "img logo",
 	url: "https://example.com/",
 	language: "en",
 	description: "I am Ash and I am writing about my experiences",
